@@ -19,6 +19,6 @@
 #### 24 hours
 
 ### Porject link
-[vercel link ](https://rajnish-portfolio.vercel.app/ )
+[vercel link ](https://paytm-clone-seven.vercel.app/ )
 
 ![badge](https://img.shields.io/badge/HTML-CSS-blue)
